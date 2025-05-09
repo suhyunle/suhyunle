@@ -1,16 +1,41 @@
-## Hi there 👋
+## Suhyun Lee- @suhyunle
+안녕하세요. 개발자 이수현입니다 ! 
+<div>
 
-<!--
-**suhyunle/suhyunle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> "작은 기술 하나도 사용자의 경험을 바꾸는 힘이 있다고 믿습니다.  
+> 그런 기술과 사용자를 연결하는 사람이고 싶습니다."
 
-Here are some ideas to get you started:
+  
+`# JavaScript` `# TypeScript` `# Node.js` `# React` `# ReactNative` `# Next.js`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![suhyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhyunle&show_icons=true&theme=react&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suhyunle&layout=compact&theme=react&hide=ejs,dockerfile,docker,batchfile)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🖼️ Front-End
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+### ⚙️ Back-End
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-00618A?style=for-the-badge)
+
+### 🐧 DevOps & Tools
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white)
+
+</div>
+<br/>
