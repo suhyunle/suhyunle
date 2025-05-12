@@ -2,9 +2,6 @@
 안녕하세요. 개발자 이수현입니다 ! 
 <div>
 
-> "작은 기술 하나도 사용자의 경험을 바꾸는 힘이 있다고 믿습니다.  
-> 그런 기술과 사용자를 연결하는 사람이고 싶습니다."
-
   
 `# JavaScript` `# TypeScript` `# Node.js` `# React` `# ReactNative` `# Next.js`
 
