@@ -1,4 +1,4 @@
-## Suhyun Lee- @suhyunle
+## Suhyun Lee - @suhyunle
 안녕하세요. 개발자 이수현입니다 ! 
 <div>
 
