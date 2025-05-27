@@ -1,4 +1,4 @@
-## Suhyun Lee - @suhyunle
+
 
 <div>
 
@@ -11,16 +11,17 @@
   
 </div>
 
+## Suhyun Lee
+
+
 `# JavaScript` `# TypeScript` `# Node.js` `# React` `# ReactNative` `# Next.js`
 
 
-[![suhyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhyunle&show_icons=true&theme=react&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![suhyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhyunle&show_icons=true&theme=react&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suhyunle&layout=compact&theme=react&hide=ejs,dockerfile,docker,batchfile)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-
-##  Tech Stack
 
 ### 💻 Languages
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -44,3 +45,4 @@
 
 </div>
 <br/>
+-->
