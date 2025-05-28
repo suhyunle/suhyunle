@@ -14,7 +14,7 @@
 ## Suhyun Lee
 
 
-`# JavaScript` `# TypeScript` `# Node.js` `# React` `# ReactNative` `# Next.js`
+`# Java` `# JavaScript` `# TypeScript` `# Node.js` `# React` `# ReactNative` `# Next.js`
 
 
 <!--[![suhyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhyunle&show_icons=true&theme=react&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
